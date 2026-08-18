@@ -15,6 +15,15 @@ Aura Energy is a **software-only Renewable Energy Digital Twin** that combines:
 - **24-hour physics-based forecast** using live weather forecast data from Open-Meteo
 - **Rule-based energy optimization** with transparent reasoning chains
 - **Interactive scenario simulation** for demonstration and testing
+## Live Demo
+
+**Live Dashboard:** https://vinayakdevtiwari.github.io/renewable-energy-digital-twin/
+
+## Screenshots
+
+### Main Dashboard
+
+![Aura Energy Dashboard](screenshots/dashboard.png)
 
 > ⚠️ **Scope Disclosure**: This is a SOFTWARE DIGITAL TWIN. No physical sensors, ESP32 microcontrollers, smart meters, battery BMS, or EV chargers are currently connected. All energy system values are simulated. Only Open-Meteo weather data is genuinely live.
 
